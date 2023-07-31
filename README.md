@@ -14,6 +14,7 @@ Steps Involved:
 5 - Data Exploration - Distributional analysis of sales information columns
 
 6 - Confirmatory Data Analysis (CDA)
+
 -------------------------------------------------------------------------------------------
 
 The course materials belong entirely to Coursera.
